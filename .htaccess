@@ -1,0 +1,2 @@
+rewriteengine on
+redirect 301 https://augustuscolor.com/en/index.html https://augustuscolor.com/en/index-en.html
